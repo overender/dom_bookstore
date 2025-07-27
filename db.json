@@ -1,9 +1,104 @@
 {
   "books": [
     {
-      "id": "e2e0",
-      "title": "Peace, Love and Dodgeball",
-      "author": "Ethan Something"
+      "id": 1,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien"
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling"
+    },
+    {
+      "id": 3,
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss"
+    },
+    {
+      "id": 4,
+      "title": "Mistborn: The Final Empire",
+      "author": "Brandon Sanderson"
+    },
+    {
+      "id": 5,
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin"
+    },
+    {
+      "id": 6,
+      "title": "The Way of Kings",
+      "author": "Brandon Sanderson"
+    },
+    {
+      "id": 7,
+      "title": "The Lies of Locke Lamora",
+      "author": "Scott Lynch"
+    },
+    {
+      "id": 8,
+      "title": "The Blade Itself",
+      "author": "Joe Abercrombie"
+    },
+    {
+      "id": 9,
+      "title": "The Eye of the World",
+      "author": "Robert Jordan"
+    },
+    {
+      "id": 10,
+      "title": "Eragon",
+      "author": "Christopher Paolini"
+    },
+    {
+      "id": 11,
+      "title": "The Magicians",
+      "author": "Lev Grossman"
+    },
+    {
+      "id": 12,
+      "title": "Throne of Glass",
+      "author": "Sarah J. Maas"
+    },
+    {
+      "id": 13,
+      "title": "Uprooted",
+      "author": "Naomi Novik"
+    },
+    {
+      "id": 14,
+      "title": "The Priory of the Orange Tree",
+      "author": "Samantha Shannon"
+    },
+    {
+      "id": 15,
+      "title": "The Poppy War",
+      "author": "R.F. Kuang"
+    },
+    {
+      "id": 16,
+      "title": "An Ember in the Ashes",
+      "author": "Sabaa Tahir"
+    },
+    {
+      "id": 17,
+      "title": "Shadow and Bone",
+      "author": "Leigh Bardugo"
+    },
+    {
+      "id": 18,
+      "title": "Children of Blood and Bone",
+      "author": "Tomi Adeyemi"
+    },
+    {
+      "id": 19,
+      "title": "The Black Prism",
+      "author": "Brent Weeks"
+    },
+    {
+      "id": 20,
+      "title": "The Warded Man",
+      "author": "Peter V. Brett"
     }
   ]
 }
