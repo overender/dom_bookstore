@@ -32,7 +32,7 @@ function renderBook(book) {
   bookDiv.className = 'p-4 border rounded bg-gray-50';
   bookDiv.innerHTML = `
     <p class="font-semibold">${book.title}</p>
-    <p class="text-sm text-gray-600">by ${book.author}</p>
+    <p class="text-sm text-parchment-600">by ${book.author}</p>
     <button class="delete-btn bg-red-500 text-white px-3 py-1 rounded mt-2 hover:bg-red-600">
       Delete
     </button>
